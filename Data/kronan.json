@@ -1,0 +1,4837 @@
+{
+ "data": {
+  "categories": {
+   "edges": [
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MQ==",
+      "slug": "01-00-00-avextir",
+      "name": "Ávextir",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/%C3%81vextir_category_icon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDE=",
+          "slug": "01-01-00-bananar-perur-og-epli",
+          "name": "Bananar, perur og epli",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDE=",
+              "name": "Bananar og perur",
+              "slug": "01-01-01-bananar-og-perur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDI=",
+              "name": "Epli",
+              "slug": "01-01-02-epli",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDI=",
+          "slug": "01-02-00-melonur-og-ber",
+          "name": "Melónur og ber",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDM=",
+              "name": "Melónur",
+              "slug": "01-02-01-melonur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDQ=",
+              "name": "Ber",
+              "slug": "01-02-02-ber",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDM=",
+          "slug": "01-03-00-sudraenir-og-sitrusavextir",
+          "name": "Suðrænir og sítrusávextir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDU=",
+              "name": "Sítrusávextir",
+              "slug": "01-03-01-sitrusavextir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDY=",
+              "name": "Suðrænir ávextir",
+              "slug": "01-03-02-sudraenir-avextir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDQ=",
+          "slug": "01-04-00-steinaldin",
+          "name": "Steinaldin",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDc=",
+              "name": "Steinaldin",
+              "slug": "01-04-01-steinaldin",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6Mg==",
+      "slug": "02-00-00-graenmeti",
+      "name": "Grænmeti",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Gr%C3%A6nmeti_category_icon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDU=",
+          "slug": "02-01-00-kal-og-salat",
+          "name": "Kál og salat",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDg=",
+              "name": "Kál og salat",
+              "slug": "02-01-01-kal-og-salat",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDY=",
+          "slug": "02-02-00-kartoflur-og-rotargraenmeti",
+          "name": "Kartöflur og rótargrænmeti",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMDk=",
+              "name": "Kartöflur",
+              "slug": "02-02-01-kartoflur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTA=",
+              "name": "Rótargrænmeti",
+              "slug": "02-02-02-rotargraenmeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDc=",
+          "slug": "02-03-00-kryddjurtir",
+          "name": "Kryddjurtir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTE=",
+              "name": "Kryddjurtir",
+              "slug": "02-03-01-kryddjurtir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDg=",
+          "slug": "02-04-00-sveppir-og-laukur",
+          "name": "Sveppir og laukur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTI=",
+              "name": "Sveppir",
+              "slug": "02-04-01-sveppir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTM=",
+              "name": "Laukur",
+              "slug": "02-04-02-laukur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMDk=",
+          "slug": "02-05-00-tomatar-paprika-og-agurkur",
+          "name": "Tómatar, paprika og agúrkur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTQ=",
+              "name": "Tómatar",
+              "slug": "02-05-01-tomatar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTU=",
+              "name": "Paprika",
+              "slug": "02-05-02-paprika",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTY=",
+              "name": "Agúrkur",
+              "slug": "02-05-03-agurkur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTA=",
+          "slug": "02-06-00-annad-graenmeti",
+          "name": "Annað grænmeti",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTc=",
+              "name": "Annað grænmeti",
+              "slug": "02-06-01-annad-graenmeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MjI5",
+      "slug": "27-00-00-thorrinn",
+      "name": "Þorrinn",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/thorrinn2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MjMw",
+          "slug": "27-01-00-thorrinn",
+          "name": "Þorrinn",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjMx",
+              "name": "Þorrinn",
+              "slug": "27-01-01-thorrinn",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6Mw==",
+      "slug": "03-00-00-fiskur",
+      "name": "Fiskur",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/fiskur_category_icon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTE=",
+          "slug": "03-01-00-fiskur",
+          "name": "Fiskur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTg=",
+              "name": "Ferskur fiskur",
+              "slug": "03-01-01-ferskur-fiskur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMTk=",
+              "name": "Fiskréttir",
+              "slug": "03-01-02-fiskrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjA=",
+              "name": "Harðfiskur",
+              "slug": "03-01-03-hardfiskur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTI=",
+          "slug": "03-02-00-skelfiskur",
+          "name": "Skelfiskur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjE=",
+              "name": "Humar",
+              "slug": "03-02-01-humar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjI=",
+              "name": "Rækjur",
+              "slug": "03-02-02-raekjur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6NA==",
+      "slug": "04-00-00-kjot",
+      "name": "Kjöt",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Kj%C3%B6t_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTM=",
+          "slug": "04-01-00-kjot",
+          "name": "Kjöt",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjM=",
+              "name": "Lambakjöt",
+              "slug": "04-01-01-lambakjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjQ=",
+              "name": "Nautakjöt",
+              "slug": "04-01-02-nautakjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjU=",
+              "name": "Svínakjöt",
+              "slug": "04-01-03-svinakjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjY=",
+              "name": "Folalda og hrossakjöt",
+              "slug": "04-01-04-folalda-og-hrossakjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTQ=",
+          "slug": "04-02-00-fuglakjot",
+          "name": "Fuglakjöt",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjc=",
+              "name": "Kjúklingur",
+              "slug": "04-02-01-kjuklingur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjg=",
+              "name": "Fuglakjöt",
+              "slug": "04-02-02-fuglakjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTU=",
+          "slug": "04-03-00-unnin-kjotvara",
+          "name": "Unnin kjötvara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMjk=",
+              "name": "Reykt og saltað kjöt",
+              "slug": "04-03-01-reykt-og-saltad-kjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzA=",
+              "name": "Pylsur, búðingar og bjúgu",
+              "slug": "04-03-02-pylsur-budingar-og-bjugu",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzE=",
+              "name": "Slátur og þorramatur",
+              "slug": "04-03-03-slatur-og-thorramatur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6NQ==",
+      "slug": "05-00-00-mjolkurvorur-og-egg",
+      "name": "Mjólkurvörur og egg",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Mj%C3%B3lkurvara_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTY=",
+          "slug": "05-01-00-mjolk",
+          "name": "Mjólk",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzI=",
+              "name": "Mjólk",
+              "slug": "05-01-01-mjolk",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzM=",
+              "name": "Bragðbætt mjólk",
+              "slug": "05-01-02-bragdbaett-mjolk",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTc=",
+          "slug": "05-02-00-rjomi",
+          "name": "Rjómi",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzQ=",
+              "name": "Rjómi",
+              "slug": "05-02-01-rjomi",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTg=",
+          "slug": "05-03-00-ostar",
+          "name": "Ostar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzU=",
+              "name": "Brauðostar",
+              "slug": "05-03-01-braudostar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzY=",
+              "name": "Sneiðar",
+              "slug": "05-03-02-sneidar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzc=",
+              "name": "Rifinn",
+              "slug": "05-03-03-rifinn",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzg=",
+              "name": "Smur- og rjómaostar",
+              "slug": "05-03-04-smur-og-rjomaostar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwMzk=",
+              "name": "Kryddostur",
+              "slug": "05-03-05-kryddostur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDA=",
+              "name": "Hvítmyglu",
+              "slug": "05-03-06-hvitmyglu",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDE=",
+              "name": "Blámyglu",
+              "slug": "05-03-07-blamyglu",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDI=",
+              "name": "Ferskir",
+              "slug": "05-03-08-ferskir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDM=",
+              "name": "Ostakökur og eftirréttir",
+              "slug": "05-03-09-ostakokur-og-eftirrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAzMTE=",
+              "name": "Harðir ostar",
+              "slug": "05-03-10-hardir-ostar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMTk=",
+          "slug": "05-04-00-smjor-og-smjorliki",
+          "name": "Smjör og smjörlíki",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDQ=",
+              "name": "Smjör",
+              "slug": "05-04-01-smjor",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDU=",
+              "name": "Smjörlíki",
+              "slug": "05-04-02-smjorliki",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDY=",
+              "name": "Feiti",
+              "slug": "05-04-03-feiti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjA=",
+          "slug": "05-05-00-skyr-og-jogurt",
+          "name": "Skyr og jógúrt",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDc=",
+              "name": "Skyr",
+              "slug": "05-05-01-skyr",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDg=",
+              "name": "Jógúrt",
+              "slug": "05-05-02-jogurt",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyOTA=",
+              "name": "Grísk jógúrt",
+              "slug": "05-05-03-grisk-jogurt",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyOTE=",
+              "name": "AB mjólk og súrmjólk",
+              "slug": "05-05-04-ab-mjolk-og-surmjolk",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyOTI=",
+              "name": "Skyr- og jógúrtdrykkir",
+              "slug": "05-05-05-skyr-og-jogurtdrykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyOTM=",
+              "name": "Próteinvörur og heilsubót",
+              "slug": "05-05-06-proteinvorur-og-heilsubot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjE=",
+          "slug": "05-06-00-syrdur-rjomi",
+          "name": "Sýrður rjómi",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNDk=",
+              "name": "Sýrður rjómi",
+              "slug": "05-06-01-syrdur-rjomi",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjI=",
+          "slug": "05-07-00-jurtamjolkurvara",
+          "name": "Jurtamjólkurvara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTA=",
+              "name": "Jurtamjólk",
+              "slug": "05-07-01-jurtamjolk",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTE=",
+              "name": "Jurtaostar",
+              "slug": "05-07-02-jurtaostar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTI=",
+              "name": "Jurtajógúrt",
+              "slug": "05-07-03-jurtajogurt",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjM=",
+          "slug": "05-08-00-kaldar-sosur-og-medlaeti",
+          "name": "Kaldar sósur og meðlæti",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTM=",
+              "name": "Kaldar sósur",
+              "slug": "05-08-01-kaldar-sosur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyOTQ=",
+              "name": "Kalt meðlæti",
+              "slug": "05-08-02-kalt-medlaeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjQ=",
+          "slug": "05-09-00-egg",
+          "name": "Egg",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTQ=",
+              "name": "Egg",
+              "slug": "05-09-01-egg",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6Ng==",
+      "slug": "06-00-00-braud-kokur-og-kex",
+      "name": "Brauð, kökur og kex",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Brau%C3%B0_og_k%C3%B6kur_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjU=",
+          "slug": "06-01-00-nybakad",
+          "name": "Nýbakað",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTU=",
+              "name": "Nýbakað",
+              "slug": "06-01-01-nybakad",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjY=",
+          "slug": "06-02-00-braud",
+          "name": "Brauð",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTY=",
+              "name": "Samlokubrauð",
+              "slug": "06-02-01-samlokubraud",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTc=",
+              "name": "Rúgbrauð, maltbrauð, flatkökur og skonsur",
+              "slug": "06-02-02-rugbraud-maltbraud-flatkokur-og-skonsur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTg=",
+              "name": "Hamborgara-, pylsu-, naan-, og pítubrauð",
+              "slug": "06-02-03-hamborgara-pylsu-naan-og-pitubraud",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNTk=",
+              "name": "Hrökkbrauð, rís- og maískökur",
+              "slug": "06-02-04-hrokkbraud-ris-og-maiskokur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNjE=",
+              "name": "Pizzabotnar",
+              "slug": "06-02-06-pizzabotnar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyOTU=",
+              "name": "Glútenlaust",
+              "slug": "06-02-07-glutenlaust",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjc=",
+          "slug": "06-03-00-kokur-og-saetabraud",
+          "name": "Kökur og sætabrauð",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNjI=",
+              "name": "Kökur",
+              "slug": "06-03-01-kokur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyOTY=",
+              "name": "Sætabrauð",
+              "slug": "06-03-03-saetabraud",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjg=",
+          "slug": "06-04-00-kex",
+          "name": "Kex",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNjQ=",
+              "name": "Kex og smákökur",
+              "slug": "06-04-01-kex-og-smakokur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6Nw==",
+      "slug": "07-00-00-a-braud",
+      "name": "Á brauð",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/%C3%81legg_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMjk=",
+          "slug": "07-01-00-alegg",
+          "name": "Álegg",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNjU=",
+              "name": "Kjötálegg",
+              "slug": "07-01-01-kjotalegg",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNjY=",
+              "name": "Lax og silungur",
+              "slug": "07-01-02-lax-og-silungur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNjc=",
+              "name": "Síld og Kavíar",
+              "slug": "07-01-03-sild-og-kaviar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNjg=",
+              "name": "Kæfa og paté",
+              "slug": "07-01-04-kaefa-og-pate",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzA=",
+          "slug": "07-02-00-braudsalot",
+          "name": "Brauðsalöt",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNjk=",
+              "name": "Brauðsalöt",
+              "slug": "07-02-01-braudsalot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzE=",
+          "slug": "07-03-00-hnetusmjor-hummus-og-smuralegg",
+          "name": "Hnetusmjör, hummus og smurálegg",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzA=",
+              "name": "Hnetusmjör og smurálegg",
+              "slug": "07-03-01-hnetusmjor-og-smuralegg",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyODg=",
+              "name": "Hummus",
+              "slug": "07-03-02-hummus",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzI=",
+          "slug": "07-04-00-sulta",
+          "name": "Sulta",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzE=",
+              "name": "Sulta",
+              "slug": "07-04-01-sulta",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6OA==",
+      "slug": "08-00-00-eldamennskan",
+      "name": "Eldamennskan",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Eldamennskan_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzM=",
+          "slug": "08-01-00-italia",
+          "name": "Ítalía",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzI=",
+              "name": "Pasta",
+              "slug": "08-01-01-pasta",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzM=",
+              "name": "Tómatvörur",
+              "slug": "08-01-02-tomatvorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzQ=",
+              "name": "Pestó og antipasta",
+              "slug": "08-01-03-pesto-og-antipasta",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAzMDQ=",
+              "name": "Pizza",
+              "slug": "08-01-04-pizza",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzQ=",
+          "slug": "08-02-00-asia",
+          "name": "Asía",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzU=",
+              "name": "Asía",
+              "slug": "08-02-01-asia",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzY=",
+              "name": "Indland",
+              "slug": "08-02-02-indland",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzU=",
+          "slug": "08-03-00-mexiko",
+          "name": "Mexíkó",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzc=",
+              "name": "Mexíkó",
+              "slug": "08-03-01-mexiko",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzY=",
+          "slug": "08-04-00-hrisgrjon-kuskus-og-kinoa",
+          "name": "Hrísgrjón, kúskús og kínóa",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzg=",
+              "name": "Hrísgrjón",
+              "slug": "08-04-01-hrisgrjon",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwNzk=",
+              "name": "Kúskús og kínóa",
+              "slug": "08-04-02-kuskus-og-kinoa",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzc=",
+          "slug": "08-05-00-olia-og-edik",
+          "name": "Olía og edik",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODA=",
+              "name": "Olía",
+              "slug": "08-05-01-olia",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODE=",
+              "name": "Edik",
+              "slug": "08-05-02-edik",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzg=",
+          "slug": "08-06-00-baunir",
+          "name": "Baunir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODM=",
+              "name": "Baunir og tófú",
+              "slug": "08-06-01-baunir-og-tofu",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwMzk=",
+          "slug": "08-07-00-sosur-sinnep-og-marineringar",
+          "name": "Sósur, sinnep og marineringar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODQ=",
+              "name": "Sósur",
+              "slug": "08-07-01-sosur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODU=",
+              "name": "Sinnep",
+              "slug": "08-07-02-sinnep",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODY=",
+              "name": "Dressingar",
+              "slug": "08-07-03-dressingar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODc=",
+              "name": "Marineringar",
+              "slug": "08-07-04-marineringar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNDA=",
+          "slug": "08-08-00-pakkasupur-og-sosur",
+          "name": "Pakkasúpur og -sósur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODg=",
+              "name": "Pakkasósur",
+              "slug": "08-08-01-pakkasosur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwODk=",
+              "name": "Pakkasúpur",
+              "slug": "08-08-02-pakkasupur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTA=",
+              "name": "Kartöflumús, raspur og þurrkað grænmeti",
+              "slug": "08-08-03-kartoflumus-raspur-og-thurrkad-graenmeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNDE=",
+          "slug": "08-09-00-nidursuduvara",
+          "name": "Niðursuðuvara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTE=",
+              "name": "Niðursoðið grænmeti",
+              "slug": "08-09-01-nidursodid-graenmeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTI=",
+              "name": "Niðursoðið sjávarfang",
+              "slug": "08-09-02-nidursodid-sjavarfang",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTM=",
+              "name": "Niðursoðnir ávextir",
+              "slug": "08-09-03-nidursodnir-avextir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNDI=",
+          "slug": "08-10-00-krydd-og-kraftur",
+          "name": "Krydd og kraftur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTQ=",
+              "name": "Krydd",
+              "slug": "08-10-01-krydd",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTU=",
+              "name": "Kraftur",
+              "slug": "08-10-02-kraftur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6OQ==",
+      "slug": "09-00-00-bakstur",
+      "name": "Bakstur",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Group_8012x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNDM=",
+          "slug": "09-01-00-hveiti-mjol-og-sykur",
+          "name": "Hveiti, mjöl og sykur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTY=",
+              "name": "Hveiti og mjöl",
+              "slug": "09-01-01-hveiti-og-mjol",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTc=",
+              "name": "Sykur og sæta",
+              "slug": "09-01-02-sykur-og-saeta",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTg=",
+              "name": "Ger, lyftiduft og matarsódi",
+              "slug": "09-01-03-ger-lyftiduft-og-matarsodi",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNDQ=",
+          "slug": "09-02-00-bokunarvara",
+          "name": "Bökunarvara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAwOTk=",
+              "name": "Bökunarsúkkulaði og spænir",
+              "slug": "09-02-01-bokunarsukkuladi-og-spaenir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMDA=",
+              "name": "Kakó",
+              "slug": "09-02-02-kako",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMDE=",
+              "name": "Marsípan og núggat",
+              "slug": "09-02-03-marsipan-og-nuggat",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMDI=",
+              "name": "Kökuskraut og matarlitur",
+              "slug": "09-02-04-kokuskraut-og-matarlitur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyODc=",
+              "name": "Möndlur, fræ og þurrkaðir ávextir",
+              "slug": "09-02-05-mondlur-frae-og-thurrkadir-avextir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNDU=",
+          "slug": "09-03-00-sultugerd-budingar-hlaup-og-matarlim",
+          "name": "Sultugerð, búðingar, hlaup og matarlím",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMDM=",
+              "name": "Sultugerð, búðingar, hlaup og matarlím",
+              "slug": "09-03-01-sultugerd-budingar-hlaup-og-matarlim",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNDY=",
+          "slug": "09-04-00-bakstursblondur-og-krem",
+          "name": "Bakstursblöndur og krem",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMDQ=",
+              "name": "Bakstursblöndur",
+              "slug": "09-04-01-bakstursblondur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjU=",
+              "name": "Krem",
+              "slug": "09-04-02-krem",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjY=",
+              "name": "Brauðblöndur",
+              "slug": "09-04-03-braudblondur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNDk=",
+          "slug": "09-07-00-bokunarkrydd-og-dropar",
+          "name": "Bökunarkrydd og dropar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMDc=",
+              "name": "Bökunarkrydd",
+              "slug": "09-07-01-bokunarkrydd",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyOTg=",
+              "name": "Dropar",
+              "slug": "09-07-02-dropar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTA=",
+          "slug": "09-08-00-bokunarpappir-og-form",
+          "name": "Bökunarpappír og -form",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMDg=",
+              "name": "Bökunarpappír og -form",
+              "slug": "09-08-01-bokunarpappir-og-form",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTA=",
+      "slug": "10-00-00-morgunmatur-og-heilsubot",
+      "name": "Morgunmatur og heilsubót",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Group_7852x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTE=",
+          "slug": "10-01-00-morgunmatur",
+          "name": "Morgunmatur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMDk=",
+              "name": "Morgunkorn",
+              "slug": "10-01-01-morgunkorn",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTA=",
+              "name": "Múslí",
+              "slug": "10-01-02-musli",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTE=",
+              "name": "Haframjöl",
+              "slug": "10-01-03-haframjol",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTI=",
+              "name": "Grautar",
+              "slug": "10-01-04-grautar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTI=",
+          "slug": "10-02-00-hnetur-og-frae",
+          "name": "Hnetur og fræ",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTM=",
+              "name": "Hnetur, fræ og rúsínur",
+              "slug": "10-02-01-hnetur-frae-og-rusinur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTM=",
+          "slug": "10-03-00-thurrkadir-avextir",
+          "name": "Þurrkaðir ávextir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTQ=",
+              "name": "Þurrkaðir ávextir",
+              "slug": "10-03-01-thurrkadir-avextir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTQ=",
+          "slug": "10-04-00-vitamin",
+          "name": "Vítamín",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTU=",
+              "name": "Vítamín og steinefni",
+              "slug": "10-04-01-vitamin-og-steinefni",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTU=",
+          "slug": "10-05-00-faedubotaefni",
+          "name": "Fæðubótaefni",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTY=",
+              "name": "Fæðubótaefni",
+              "slug": "10-05-01-faedubotaefni",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTY=",
+          "slug": "10-06-00-orkustangir-og-skvisur",
+          "name": "Orkustangir og -skvísur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTc=",
+              "name": "Orkustangir",
+              "slug": "10-06-01-orkustangir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTc=",
+          "slug": "10-07-00-heilsa-og-vellidan",
+          "name": "Heilsa og vellíðan",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMTg=",
+              "name": "Heilsa og vellíðan",
+              "slug": "10-07-01-heilsa-og-vellidan",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTE=",
+      "slug": "11-00-00-a-ferdinni",
+      "name": "Á ferðinni",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/%C3%81_fer%C3%B0inni_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNTk=",
+          "slug": "11-02-00-tilbuid-til-ad-borda",
+          "name": "Tilbúið til að borða",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMjg=",
+              "name": "Samlokur",
+              "slug": "11-02-01-samlokur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMjk=",
+              "name": "Matar- og salatbakkar",
+              "slug": "11-02-02-matar-og-salatbakkar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMzA=",
+              "name": "Niðursneiddir ávextir og grænmeti",
+              "slug": "11-02-03-nidursneiddir-avextir-og-graenmeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTI=",
+      "slug": "12-00-00-tilbunir-rettir",
+      "name": "Tilbúnir réttir",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Tilb%C3%BAnir_r%C3%A9ttir_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNjI=",
+          "slug": "12-03-00-fiskrettir",
+          "name": "Fiskréttir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMzM=",
+              "name": "Fiskréttir",
+              "slug": "12-03-01-fiskrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNjM=",
+          "slug": "12-04-00-pizzur-pasta-og-lasagna",
+          "name": "Pizzur, pasta og lasagna",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMzQ=",
+              "name": "Ferskar pizzur",
+              "slug": "12-04-01-ferskar-pizzur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMzU=",
+              "name": "Frosnar pizzur",
+              "slug": "12-04-02-frosnar-pizzur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMzY=",
+              "name": "Pasta",
+              "slug": "12-04-03-pasta",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxMzc=",
+              "name": "Lasagna",
+              "slug": "12-04-04-lasagna",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6Mjc=",
+          "slug": "12-05-00-kjuklingur",
+          "name": "Kjúklingur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6Mjg=",
+              "name": "Kjúklingur",
+              "slug": "12-05-01-kjuklingur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6Mjk=",
+          "slug": "12-06-00-graenmetisrettir-og-medlaeti",
+          "name": "Grænmetisréttir og meðlæti",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MzA=",
+              "name": "Grænmetisréttir",
+              "slug": "12-06-01-graenmetisrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MzE=",
+              "name": "Meðlæti",
+              "slug": "12-06-02-medlaeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MzI=",
+          "slug": "12-07-00-supur-og-sosur",
+          "name": "Súpur og sósur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MzM=",
+              "name": "Súpur og sósur",
+              "slug": "12-07-01-supur-og-sosur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MzQ=",
+          "slug": "12-08-00-grytur-og-hradrettir",
+          "name": "Grýtur og hraðréttir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MzU=",
+              "name": "Grýtur og hraðréttir",
+              "slug": "12-08-01-grytur-og-hradrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MzY=",
+          "slug": "12-09-00-1944",
+          "name": "1944",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6Mzc=",
+              "name": "1944",
+              "slug": "12-09-01-1944",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6Mzg=",
+          "slug": "12-10-00-kjotrettir",
+          "name": "Kjötréttir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6Mzk=",
+              "name": "Kjötréttir",
+              "slug": "12-10-01-kjotrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTM=",
+      "slug": "13-00-00-vegan",
+      "name": "Vegan",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Vegan_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNjk=",
+          "slug": "13-01-00-kjotliki",
+          "name": "Kjötlíki",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNDU=",
+              "name": "Kjötlíki",
+              "slug": "13-01-01-kjotliki",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzA=",
+          "slug": "13-02-00-jurtamjolkurvara",
+          "name": "Jurtamjólkurvara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNDY=",
+              "name": "Jurtamjólk",
+              "slug": "13-02-01-jurtamjolk",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNDc=",
+              "name": "Jurtaostar",
+              "slug": "13-02-02-jurtaostar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNDg=",
+              "name": "Smyrjur",
+              "slug": "13-02-03-smyrjur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNDk=",
+              "name": "Jógúrt",
+              "slug": "13-02-04-jogurt",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTA=",
+              "name": "Kaldar sósur",
+              "slug": "13-02-05-kaldar-sosur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzE=",
+          "slug": "13-03-00-a-braud",
+          "name": "Á brauð",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTE=",
+              "name": "Á brauð",
+              "slug": "13-03-01-a-braud",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzI=",
+          "slug": "13-04-00-a-ferdinni",
+          "name": "Á ferðinni",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTI=",
+              "name": "Samlokur, vefjur og salöt",
+              "slug": "13-04-01-samlokur-vefjur-og-salot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzM=",
+          "slug": "13-05-00-tilbunir-rettir",
+          "name": "Tilbúnir réttir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTM=",
+              "name": "Tilbúnir réttir",
+              "slug": "13-05-01-tilbunir-rettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyODk=",
+              "name": "Meðlæti",
+              "slug": "13-05-02-medlaeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzQ=",
+          "slug": "13-06-00-sosur",
+          "name": "Sósur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTQ=",
+              "name": "Sósur",
+              "slug": "13-06-01-sosur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzU=",
+          "slug": "13-07-00-snyrtivara",
+          "name": "Snyrtivara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTU=",
+              "name": "Snyrtivara",
+              "slug": "13-07-01-snyrtivara",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzY=",
+          "slug": "13-08-00-laugardags",
+          "name": "Laugardags",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTY=",
+              "name": "Nammi",
+              "slug": "13-08-01-nammi",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTc=",
+              "name": "Snakk",
+              "slug": "13-08-02-snakk",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTg=",
+              "name": "Jurtaís",
+              "slug": "13-08-03-jurtais",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTQ=",
+      "slug": "14-00-00-frystivara",
+      "name": "Frystivara",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Frystivara_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzc=",
+          "slug": "14-01-00-avextir-og-graenmeti",
+          "name": "Ávextir og grænmeti",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNTk=",
+              "name": "Ávextir og grænmeti",
+              "slug": "14-01-01-avextir-og-graenmeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6NDA=",
+          "slug": "14-02-00-braud-og-saetabraud",
+          "name": "Brauð og sætabrauð",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6NDE=",
+              "name": "Brauð",
+              "slug": "14-02-01-braud",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwNzk=",
+          "slug": "14-03-00-franskar",
+          "name": "Franskar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNjE=",
+              "name": "Franskar og djúpsteiking",
+              "slug": "14-03-01-franskar-og-djupsteiking",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODA=",
+          "slug": "14-04-00-kjotliki",
+          "name": "Kjötlíki",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNjI=",
+              "name": "Kjötlíki",
+              "slug": "14-04-01-kjotliki",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODE=",
+          "slug": "14-05-00-sjavarfang",
+          "name": "Sjávarfang",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNjM=",
+              "name": "Fiskur",
+              "slug": "14-05-01-fiskur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNjQ=",
+              "name": "Skelfiskur",
+              "slug": "14-05-02-skelfiskur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODI=",
+          "slug": "14-06-00-kjot",
+          "name": "Kjöt",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNjU=",
+              "name": "Lambakjöt",
+              "slug": "14-06-01-lambakjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNjY=",
+              "name": "Nautakjöt",
+              "slug": "14-06-02-nautakjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNjg=",
+              "name": "Kjúklingur",
+              "slug": "14-06-04-kjuklingur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNjk=",
+              "name": "Fuglakjöt",
+              "slug": "14-06-05-fuglakjot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODM=",
+          "slug": "14-07-00-tilbunir-rettir",
+          "name": "Tilbúnir réttir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzE=",
+              "name": "Kjötréttir",
+              "slug": "14-07-01-kjotrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6NDI=",
+              "name": "Grænmetisréttir",
+              "slug": "14-07-02-graenmetisrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6NDM=",
+              "name": "Sjávarfang",
+              "slug": "14-07-03-sjavarfang",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6NDQ=",
+              "name": "Frosnar pizzur",
+              "slug": "14-07-04-frosnar-pizzur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODQ=",
+          "slug": "14-08-00-is-og-eftirrettir",
+          "name": "Ís og eftirréttir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzI=",
+              "name": "Ís og eftirréttir",
+              "slug": "14-08-01-is-og-eftirrettir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTU=",
+      "slug": "15-00-00-heitir-drykkir",
+      "name": "Heitir drykkir",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Heitir_drykkir_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODU=",
+          "slug": "15-01-00-kaffi",
+          "name": "Kaffi",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzM=",
+              "name": "Kaffibaunir",
+              "slug": "15-01-01-kaffibaunir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzQ=",
+              "name": "Malað kaffi",
+              "slug": "15-01-02-malad-kaffi",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzU=",
+              "name": "Kaffihylki og púðar",
+              "slug": "15-01-03-kaffihylki-og-pudar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzY=",
+              "name": "Instant kaffi og kaffirjómi",
+              "slug": "15-01-04-instant-kaffi-og-kaffirjomi",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzc=",
+              "name": "Kaffifilter",
+              "slug": "15-01-05-kaffifilter",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODY=",
+          "slug": "15-02-00-te",
+          "name": "Te",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzg=",
+              "name": "Te",
+              "slug": "15-02-01-te",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODc=",
+          "slug": "15-03-00-kako",
+          "name": "Kakó",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxNzk=",
+              "name": "Kakó",
+              "slug": "15-03-01-kako",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTY=",
+      "slug": "16-00-00-drykkir",
+      "name": "Drykkir",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Drykkir_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODg=",
+          "slug": "16-01-00-avaxtasafar-og-theytingar",
+          "name": "Ávaxtasafar og -þeytingar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODA=",
+              "name": "Ávaxtasafar",
+              "slug": "16-01-01-avaxtasafar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODE=",
+              "name": "Ávaxtaþeytingar",
+              "slug": "16-01-02-avaxtatheytingar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwODk=",
+          "slug": "16-02-00-ithrottadrykkir",
+          "name": "Íþróttadrykkir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODI=",
+              "name": "Íþróttadrykkir",
+              "slug": "16-02-01-ithrottadrykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTA=",
+          "slug": "16-03-00-kaldir-kaffidrykkir",
+          "name": "Kaldir kaffidrykkir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODM=",
+              "name": "Kaldir kaffidrykkir",
+              "slug": "16-03-01-kaldir-kaffidrykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTE=",
+          "slug": "16-04-00-lifstilsdrykkir",
+          "name": "Lífstílsdrykkir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODQ=",
+              "name": "Lífstílsdrykkir",
+              "slug": "16-04-01-lifstilsdrykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTI=",
+          "slug": "16-05-00-vatn-og-kolsyrtvatn",
+          "name": "Vatn og kolsýrtvatn",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODU=",
+              "name": "Vatnsdrykkir",
+              "slug": "16-05-01-vatnsdrykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTM=",
+          "slug": "16-06-00-thykkni-saft-og-sider",
+          "name": "Þykkni, saft og síder",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODY=",
+              "name": "Þykkni, saft og síder",
+              "slug": "16-06-01-thykkni-saft-og-sider",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTQ=",
+          "slug": "16-07-00-gosdrykkir",
+          "name": "Gosdrykkir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODc=",
+              "name": "Appelsínu- og limedrykkir",
+              "slug": "16-07-01-appelsinu-og-limedrykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxODg=",
+              "name": "Kóladrykkir",
+              "slug": "16-07-02-koladrykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTU=",
+          "slug": "16-08-00-orkudrykkir",
+          "name": "Orkudrykkir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTA=",
+              "name": "Orkudrykkir",
+              "slug": "16-08-01-orkudrykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTY=",
+          "slug": "16-09-00-lettol",
+          "name": "Léttöl",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTE=",
+              "name": "Léttöl",
+              "slug": "16-09-01-lettol",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxNDg=",
+          "slug": "16-10-00-mocktails-bubblur-og-0-drykkir",
+          "name": "Mocktails, búbblur og 0% drykkir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAzMzY=",
+              "name": "Mocktails, búbblur og 0% drykkir",
+              "slug": "16-10-01-mocktails-bubblur-og-0-drykkir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTc=",
+      "slug": "17-00-00-bornin",
+      "name": "Börnin",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/B%C3%B6rnin_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTc=",
+          "slug": "17-01-00-barnamatur",
+          "name": "Barnamatur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTI=",
+              "name": "Skvísur",
+              "slug": "17-01-01-skvisur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTM=",
+              "name": "Grautar",
+              "slug": "17-01-02-grautar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTQ=",
+              "name": "Þurrmjólk",
+              "slug": "17-01-03-thurrmjolk",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTU=",
+              "name": "Barnamatur í krukku",
+              "slug": "17-01-04-barnamatur-i-krukku",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTY=",
+              "name": "Millimál",
+              "slug": "17-01-05-millimal",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTg=",
+          "slug": "17-02-00-barnaservara",
+          "name": "Barnasérvara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTc=",
+              "name": "Barnasérvara",
+              "slug": "17-02-01-barnaservara",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAwOTk=",
+          "slug": "17-03-00-barnasnyrtivara",
+          "name": "Barnasnyrtivara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTg=",
+              "name": "Barnasnyrtivörur",
+              "slug": "17-03-01-barnasnyrtivorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMDA=",
+          "slug": "17-04-00-blautklutar",
+          "name": "Blautklútar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAxOTk=",
+              "name": "Blautklútar",
+              "slug": "17-04-01-blautklutar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMDE=",
+          "slug": "17-05-00-bleiur",
+          "name": "Bleiur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDA=",
+              "name": "Bleiur",
+              "slug": "17-05-01-bleiur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTg=",
+      "slug": "18-00-00-heimilid",
+      "name": "Heimilið",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Heimili%C3%B0_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMDI=",
+          "slug": "18-01-00-thvottur",
+          "name": "Þvottur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDE=",
+              "name": "Þvottaefni",
+              "slug": "18-01-01-thvottaefni",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDI=",
+              "name": "Mýkingarefni",
+              "slug": "18-01-02-mykingarefni",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDM=",
+              "name": "Skóhirða og áburður",
+              "slug": "18-01-03-skohirda-og-aburdur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMDM=",
+          "slug": "18-02-00-thrif",
+          "name": "Þrif",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDQ=",
+              "name": "Heimilisþrif",
+              "slug": "18-02-01-heimilisthrif",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDU=",
+              "name": "Baðherbergið",
+              "slug": "18-02-02-badherbergid",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDY=",
+              "name": "Eldhúsið og uppvask",
+              "slug": "18-02-03-eldhusid-og-uppvask",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDc=",
+              "name": "Tuskur og svampar",
+              "slug": "18-02-04-tuskur-og-svampar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMDQ=",
+          "slug": "18-03-00-plastvara-og-alpappir",
+          "name": "Plastvara og álpappír",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDg=",
+              "name": "Álpappír, plastfilma og bökunarpappír",
+              "slug": "18-03-01-alpappir-plastfilma-og-bokunarpappir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMDk=",
+              "name": "Ruslapokar",
+              "slug": "18-03-02-ruslapokar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTA=",
+              "name": "Matvælapokar",
+              "slug": "18-03-03-matvaelapokar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTE=",
+              "name": "Burðarpokar",
+              "slug": "18-03-04-burdarpokar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMDU=",
+          "slug": "18-04-00-heimilisvorur",
+          "name": "Heimilisvörur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTI=",
+              "name": "Ljósaperur",
+              "slug": "18-04-01-ljosaperur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTM=",
+              "name": "Rafhlöður",
+              "slug": "18-04-02-rafhlodur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTQ=",
+              "name": "Búsáhöld",
+              "slug": "18-04-03-busahold",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTU=",
+              "name": "Grill",
+              "slug": "18-04-04-grill",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MTY5",
+              "name": "Bílavörur",
+              "slug": "18-04-05-bilavorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MTcw",
+              "name": "Pappír",
+              "slug": "18-04-06-pappir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMDY=",
+          "slug": "18-05-00-skreytingar-og-bordbunadur",
+          "name": "Skreytingar og borðbúnaður",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTY=",
+              "name": "Servíettur",
+              "slug": "18-05-01-serviettur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTc=",
+              "name": "Kerti",
+              "slug": "18-05-02-kerti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTg=",
+              "name": "Einnota borðbúnaður",
+              "slug": "18-05-03-einnota-bordbunadur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMDc=",
+          "slug": "18-06-00-blom-og-blomvendir",
+          "name": "Blóm og blómvendir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMTk=",
+              "name": "Blóm og blómvendir",
+              "slug": "18-06-01-blom-og-blomvendir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMzE=",
+          "slug": "18-07-00-sottvarnir",
+          "name": "Sóttvarnir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAzMDg=",
+              "name": "Sótthreinsir",
+              "slug": "18-07-01-sotthreinsir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAzMDk=",
+              "name": "Hanskar",
+              "slug": "18-07-02-hanskar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAzMTA=",
+              "name": "Andlitsgrímur",
+              "slug": "18-07-03-andlitsgrimur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6NDU=",
+          "slug": "18-08-00-baekur-og-timarit",
+          "name": "Bækur og tímarit",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6NDY=",
+              "name": "Ritföng",
+              "slug": "18-08-01-ritfong",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MTk=",
+      "slug": "19-00-00-snyrtivara",
+      "name": "Snyrtivara",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Snyrtivara_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTA=",
+          "slug": "19-01-00-harumhirda",
+          "name": "Hárumhirða",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMjQ=",
+              "name": "Sjampó og hárnæring",
+              "slug": "19-01-01-sjampo-og-harnaering",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMjU=",
+              "name": "Hárlitur",
+              "slug": "19-01-02-harlitur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMjY=",
+              "name": "Hármótunarvörur",
+              "slug": "19-01-03-harmotunarvorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMjc=",
+              "name": "Hárburstar og greiður",
+              "slug": "19-01-04-harburstar-og-greidur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMjg=",
+              "name": "Hárteygjur og spennur",
+              "slug": "19-01-05-harteygjur-og-spennur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTE=",
+          "slug": "19-02-00-hreinlaetisvara",
+          "name": "Hreinlætisvara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMjk=",
+              "name": "Sturtusápa og freyðibað",
+              "slug": "19-02-01-sturtusapa-og-freydibad",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzA=",
+              "name": "Handsápa",
+              "slug": "19-02-02-handsapa",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzE=",
+              "name": "Svitalyktareyðar",
+              "slug": "19-02-03-svitalyktareydar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzI=",
+              "name": "Bómull, tissjú og hreinsiklútar",
+              "slug": "19-02-04-bomull-tissju-og-hreinsiklutar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzM=",
+              "name": "Plástur og eyrnapinnar",
+              "slug": "19-02-05-plastur-og-eyrnapinnar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzQ=",
+              "name": "Fótsnyrtivörur",
+              "slug": "19-02-06-fotsnyrtivorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MTM3",
+              "name": "Tíðavörur",
+              "slug": "19-02-07-tidavorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTI=",
+          "slug": "19-03-00-tannumhirda",
+          "name": "Tannumhirða",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzY=",
+              "name": "Tannumhirða",
+              "slug": "19-03-01-tannumhirda",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTM=",
+          "slug": "19-04-00-hudumhirda",
+          "name": "Húðumhirða",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzc=",
+              "name": "Andlitskrem og serum",
+              "slug": "19-04-01-andlitskrem-og-serum",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzg=",
+              "name": "Andlitshreinsun",
+              "slug": "19-04-02-andlitshreinsun",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyMzk=",
+              "name": "Skrúbbar og maskar",
+              "slug": "19-04-03-skrubbar-og-maskar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDA=",
+              "name": "Augn- og varakrem",
+              "slug": "19-04-04-augn-og-varakrem",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDE=",
+              "name": "Krem og olíur",
+              "slug": "19-04-05-krem-og-oliur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDI=",
+              "name": "Sólarvörur",
+              "slug": "19-04-06-solarvorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDM=",
+              "name": "Varasalvi",
+              "slug": "19-04-07-varasalvi",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTQ=",
+          "slug": "19-05-00-rakstur",
+          "name": "Rakstur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDQ=",
+              "name": "Rakvélar",
+              "slug": "19-05-01-rakvelar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDU=",
+              "name": "Raksápa",
+              "slug": "19-05-02-raksapa",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDY=",
+              "name": "After shave",
+              "slug": "19-05-03-after-shave",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTU=",
+          "slug": "19-06-00-fordun",
+          "name": "Förðun",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDc=",
+              "name": "Andlit",
+              "slug": "19-06-01-andlit",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDg=",
+              "name": "Neglur",
+              "slug": "19-06-02-neglur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNDk=",
+              "name": "Varir",
+              "slug": "19-06-03-varir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNTA=",
+              "name": "Augu",
+              "slug": "19-06-04-augu",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNTE=",
+              "name": "Fylgihlutir",
+              "slug": "19-06-05-fylgihlutir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTY=",
+          "slug": "19-07-00-gjafakassar",
+          "name": "Gjafakassar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNTI=",
+              "name": "Gjafakassar",
+              "slug": "19-07-01-gjafakassar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTc=",
+          "slug": "19-08-00-lyfjavara",
+          "name": "Lyfjavara",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNTU=",
+              "name": "Smokkar",
+              "slug": "19-08-03-smokkar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNTY=",
+              "name": "Sleipiefni",
+              "slug": "19-08-04-sleipiefni",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6NTA=",
+          "slug": "19-09-00-sokkar-og-sokkabuxur",
+          "name": "Sokkar og sokkabuxur",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6NTI=",
+              "name": "Sokkar",
+              "slug": "19-09-02-sokkar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6NTM=",
+              "name": "Undirföt",
+              "slug": "19-09-03-undirfot",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MjA=",
+      "slug": "20-00-00-dyrin",
+      "name": "Dýrin",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/D%C3%BDrin_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTg=",
+          "slug": "20-01-00-hundar",
+          "name": "Hundar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNTc=",
+              "name": "Hundamatur",
+              "slug": "20-01-01-hundamatur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNTg=",
+              "name": "Hundavörur",
+              "slug": "20-01-02-hundavorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMTk=",
+          "slug": "20-02-00-kettir",
+          "name": "Kettir",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNTk=",
+              "name": "Kattamatur",
+              "slug": "20-02-01-kattamatur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjA=",
+              "name": "Kattavörur",
+              "slug": "20-02-02-kattavorur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMjA=",
+          "slug": "20-03-00-onnur-gaeludyr",
+          "name": "Önnur gæludýr",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjI=",
+              "name": "Vörur fyrir önnur gæludýr",
+              "slug": "20-03-02-vorur-fyrir-onnur-gaeludyr",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MjE=",
+      "slug": "21-00-00-laugardags",
+      "name": "Laugardags",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Laugardags_categoryicon2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMjE=",
+          "slug": "21-01-00-hnetur-og-nasl",
+          "name": "Hnetur og nasl",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjM=",
+              "name": "Hnetur og nasl",
+              "slug": "21-01-01-hnetur-og-nasl",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjQ=",
+              "name": "Þurrkaðir ávextir",
+              "slug": "21-01-02-thurrkadir-avextir",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMjI=",
+          "slug": "21-02-00-snakk",
+          "name": "Snakk",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjU=",
+              "name": "Flögur og skrúfur",
+              "slug": "21-02-01-flogur-og-skrufur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjY=",
+              "name": "Popp og poppmaís",
+              "slug": "21-02-02-popp-og-poppmais",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjc=",
+              "name": "Ídýfa",
+              "slug": "21-02-03-idyfa",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMjM=",
+          "slug": "21-03-00-saelgaeti",
+          "name": "Sælgæti",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjg=",
+              "name": "Sykurlaust nammi",
+              "slug": "21-03-01-sykurlaust-nammi",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNjk=",
+              "name": "Lakkrís",
+              "slug": "21-03-02-lakkris",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzA=",
+              "name": "Hlaup",
+              "slug": "21-03-03-hlaup",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzE=",
+              "name": "Karamellur og möndlur",
+              "slug": "21-03-04-karamellur-og-mondlur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzI=",
+              "name": "Tyggjó",
+              "slug": "21-03-05-tyggjo",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzM=",
+              "name": "Opal og sælgætistöflur",
+              "slug": "21-03-06-opal-og-saelgaetistoflur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzQ=",
+              "name": "Fínna sælgæti",
+              "slug": "21-03-07-finna-saelgaeti",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzU=",
+              "name": "Brjóstsykur og sleikjó",
+              "slug": "21-03-08-brjostsykur-og-sleikjo",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMjQ=",
+          "slug": "21-04-00-sukkuladi",
+          "name": "Súkkulaði",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzY=",
+              "name": "Stykki",
+              "slug": "21-04-01-stykki",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzc=",
+              "name": "Kúlur",
+              "slug": "21-04-02-kulur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzg=",
+              "name": "Plötur",
+              "slug": "21-04-03-plotur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyNzk=",
+              "name": "Bitar og rúsínur",
+              "slug": "21-04-04-bitar-og-rusinur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyODA=",
+              "name": "Kókos- og krembollur",
+              "slug": "21-04-05-kokos-og-krembollur",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyODE=",
+              "name": "Konfekt",
+              "slug": "21-04-06-konfekt",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        },
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMjg=",
+          "slug": "21-06-00-is-og-frostpinnar",
+          "name": "Ís og frostpinnar",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAyODU=",
+              "name": "Ís",
+              "slug": "21-06-01-is",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            },
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6NTQ=",
+              "name": "Frostpinnar",
+              "slug": "21-06-02-frostpinnar",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MjM=",
+      "slug": "22-00-00-odyrt",
+      "name": "Ódýrt",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/odyrt_categoryicon_2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMzI=",
+          "slug": "22-01-00-odyrt",
+          "name": "Ódýrt",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAzMTQ=",
+              "name": "Ódýrt",
+              "slug": "22-01-01-odyrt",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    },
+    {
+     "node": {
+      "id": "Q2F0ZWdvcnk6MjQ=",
+      "slug": "23-00-00-korter-i-4",
+      "name": "Korter í 4",
+      "description": "",
+      "backgroundImage": {
+       "alt": "",
+       "url": "https://media.kronan.is/category-backgrounds/Ki4_categoryicon_2x.png",
+       "__typename": "Image"
+      },
+      "__typename": "Category",
+      "children": {
+       "edges": [
+        {
+         "node": {
+          "id": "Q2F0ZWdvcnk6MTAxMzM=",
+          "slug": "23-01-00-korter-i-4",
+          "name": "Korter í 4",
+          "children": {
+           "edges": [
+            {
+             "node": {
+              "id": "Q2F0ZWdvcnk6MjAzMTk=",
+              "name": "Prótein",
+              "slug": "23-01-02-protein",
+              "__typename": "Category"
+             },
+             "__typename": "CategoryCountableEdge"
+            }
+           ],
+           "__typename": "CategoryCountableConnection"
+          },
+          "__typename": "Category"
+         },
+         "__typename": "CategoryCountableEdge"
+        }
+       ],
+       "__typename": "CategoryCountableConnection"
+      }
+     },
+     "__typename": "CategoryCountableEdge"
+    }
+   ],
+   "totalCount": 24,
+   "__typename": "CategoryCountableConnection"
+  }
+ }
+}
