@@ -1,1 +1,576 @@
-{"results": [{"sku": "K12004", "displayName": "Bananar", "brand": null, "weight": "180 gr.", "country": "", "productTeaser": "1 stk.", "salesPrice": 54.0, "pricePerUnit": 299.0, "unitOfMeasure": "kg.", "icons": [], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/K12004/k12004.png", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Ávextir og grænmeti", "url": "/voerur/avextir-og-graenmeti/", "categoryId": "607f4d99d61a5dcd8940cf6d", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/paschhdo/ág-1000-500-px-1.png", "level": 1}, {"name": "Ávextir", "url": "/voerur/avextir-og-graenmeti/avextir/", "categoryId": "618141fb20f941db99666fd8", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/wi3m3frc/ávextir-1000-500-px-2.png", "level": 2}, {"name": "Bananar", "url": "/voerur/avextir-og-graenmeti/avextir/bananar/", "categoryId": "6182b694d437c426fff3336a", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/avextir-og-graenmeti/avextir/bananar/bananar-p-k12004", "availableInStock": 0, "alwaysInStock": true}, {"sku": "30172461", "displayName": "Ágúrka", "brand": "SFG", "weight": "350 gr.", "country": "", "productTeaser": "1 stk.", "salesPrice": 229.0, "pricePerUnit": 654.0, "unitOfMeasure": "kg.", "icons": ["Icelandic"], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/30172461/30172461.png", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Ávextir og grænmeti", "url": "/voerur/avextir-og-graenmeti/", "categoryId": "607f4d99d61a5dcd8940cf6d", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/paschhdo/ág-1000-500-px-1.png", "level": 1}, {"name": "Grænmeti", "url": "/voerur/avextir-og-graenmeti/graenmeti/", "categoryId": "618142009a42b4db60026f26", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/p1kh1vso/graenmeti-1000-500-px-2.png", "level": 2}, {"name": "Agúrkur", "url": "/voerur/avextir-og-graenmeti/graenmeti/agurkur/", "categoryId": "6182b6dad437c426fff33376", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/avextir-og-graenmeti/graenmeti/agurkur/agurka-p-30172461", "availableInStock": 576, "alwaysInStock": false}, {"sku": "30147399", "displayName": "Nýmjólk D-Vítamínbætt", "brand": "MS", "weight": "1 ltr.", "country": "", "productTeaser": "", "salesPrice": 239.0, "pricePerUnit": 239.0, "unitOfMeasure": "ltr.", "icons": ["Icelandic"], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/30147399/30147399_1.jpg", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Mjólkurvörur", "url": "/voerur/mjolkurvoerur/", "categoryId": "607f4d7f1072c979b14fe73b", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png", "level": 1}, {"name": "Mjólk og jurtamjólk", "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/", "categoryId": "61a9d7633456bbfb73c087de", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/aiub24fi/mjólk-1000-500-px.png", "level": 2}, {"name": "Hefðbundin mjólk", "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/", "categoryId": "6245723f7878f380ce83f941", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/nymjolk-d-vitaminbaett-p-30147399", "availableInStock": 0, "alwaysInStock": true}, {"sku": "K012024", "displayName": "Paprika Rauð", "brand": null, "weight": "210 gr.", "country": "", "productTeaser": "1 stk.", "salesPrice": 126.0, "pricePerUnit": 599.0, "unitOfMeasure": "kg.", "icons": [], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/K012024/K012024.jpg", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Ávextir og grænmeti", "url": "/voerur/avextir-og-graenmeti/", "categoryId": "607f4d99d61a5dcd8940cf6d", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/paschhdo/ág-1000-500-px-1.png", "level": 1}, {"name": "Grænmeti", "url": "/voerur/avextir-og-graenmeti/graenmeti/", "categoryId": "618142009a42b4db60026f26", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/p1kh1vso/graenmeti-1000-500-px-2.png", "level": 2}, {"name": "Paprikur", "url": "/voerur/avextir-og-graenmeti/graenmeti/paprikur/", "categoryId": "6182b6dde4896376829abe01", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/avextir-og-graenmeti/graenmeti/paprikur/paprika-raud-p-k012024", "availableInStock": 0, "alwaysInStock": true}, {"sku": "10001502", "displayName": "Rjómi", "brand": "MS", "weight": "500 ml.", "country": "", "productTeaser": "", "salesPrice": 689.0, "pricePerUnit": 1378.0, "unitOfMeasure": "ltr.", "icons": ["Icelandic"], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/10001502/10001502_1.jpg", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Mjólkurvörur", "url": "/voerur/mjolkurvoerur/", "categoryId": "607f4d7f1072c979b14fe73b", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png", "level": 1}, {"name": "Rjómi", "url": "/voerur/mjolkurvoerur/rjomi/", "categoryId": "61a9d7a3dd12b21ee14e4b42", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/pstkno1j/rjómi-1000-500-px.png", "level": 2}, {"name": "Hefðbundinn rjómi", "url": "/voerur/mjolkurvoerur/rjomi/hefdbundinn-rjomi/", "categoryId": "62457be7061b04309fa38e05", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/mjolkurvoerur/rjomi/hefdbundinn-rjomi/rjomi-p-10001502", "availableInStock": 0, "alwaysInStock": true}, {"sku": "30136799", "displayName": "Smjörvi", "brand": "MS", "weight": "400 gr.", "country": "", "productTeaser": "", "salesPrice": 699.0, "pricePerUnit": 1748.0, "unitOfMeasure": "kg.", "icons": ["Icelandic"], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/30136799/30136799_1.jpg", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Mjólkurvörur", "url": "/voerur/mjolkurvoerur/", "categoryId": "607f4d7f1072c979b14fe73b", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png", "level": 1}, {"name": "Ostar og smjör", "url": "/voerur/mjolkurvoerur/ostar-og-smjoer/", "categoryId": "6183d238e4896376829af7bb", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/3prppjch/ostar-1000-500-px.png", "level": 2}, {"name": "Smjör", "url": "/voerur/mjolkurvoerur/ostar-og-smjoer/smjoer/", "categoryId": "61a9d777dd12b21ee14e4b38", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/mjolkurvoerur/ostar-og-smjoer/smjoer/smjorvi-p-30136799", "availableInStock": 178, "alwaysInStock": false}, {"sku": "30117169", "displayName": "Léttmjólk D-Vítamín", "brand": "MS", "weight": "1 ltr.", "country": "", "productTeaser": "", "salesPrice": 239.0, "pricePerUnit": 239.0, "unitOfMeasure": "ltr.", "icons": ["Icelandic"], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/30117169/30117169.jpg", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Mjólkurvörur", "url": "/voerur/mjolkurvoerur/", "categoryId": "607f4d7f1072c979b14fe73b", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png", "level": 1}, {"name": "Mjólk og jurtamjólk", "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/", "categoryId": "61a9d7633456bbfb73c087de", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/aiub24fi/mjólk-1000-500-px.png", "level": 2}, {"name": "Hefðbundin mjólk", "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/", "categoryId": "6245723f7878f380ce83f941", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/lettmjolk-d-vitamin-p-30117169", "availableInStock": 0, "alwaysInStock": true}, {"sku": "10001491", "displayName": "Nýmjólk", "brand": "MS", "weight": "1 ltr.", "country": "", "productTeaser": "", "salesPrice": 199.0, "pricePerUnit": 199.0, "unitOfMeasure": "ltr.", "icons": ["Icelandic"], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/10001491/10001491.png", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Mjólkurvörur", "url": "/voerur/mjolkurvoerur/", "categoryId": "607f4d7f1072c979b14fe73b", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png", "level": 1}, {"name": "Mjólk og jurtamjólk", "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/", "categoryId": "61a9d7633456bbfb73c087de", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/aiub24fi/mjólk-1000-500-px.png", "level": 2}, {"name": "Hefðbundin mjólk", "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/", "categoryId": "6245723f7878f380ce83f941", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/nymjolk-p-10001491", "availableInStock": 0, "alwaysInStock": true}, {"sku": "K082050", "displayName": "Heimilisbrauð Heilt", "brand": "Myllu", "weight": "770 gr.", "country": "", "productTeaser": "", "salesPrice": 569.0, "pricePerUnit": 739.0, "unitOfMeasure": "kg.", "icons": ["Icelandic"], "hazardLabels": [], "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/K082050/K082050.jpg", "offer": null, "bonus": null, "breadcrumbs": [{"name": "Vörur", "url": "/voerur/", "categoryId": null, "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg", "level": 0}, {"name": "Brauð og kökur", "url": "/voerur/braud-og-koekur/", "categoryId": "607f4d89d61a5dcd8940cf6b", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/h05cymzp/brauð-og-koekur-1000-500-px.png", "level": 1}, {"name": "Brauð", "url": "/voerur/braud-og-koekur/braud/", "categoryId": "61aa025e58952c9651e5014e", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/qgbmrdul/brauð-1000-500-px.png", "level": 2}, {"name": "Heil brauð", "url": "/voerur/braud-og-koekur/braud/heil-braud/", "categoryId": "61aa028758952c9651e50150", "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png", "level": 3}], "url": "/voerur/braud-og-koekur/braud/heil-braud/heimilisbraud-heilt-p-k082050", "availableInStock": 0, "alwaysInStock": true}], "facets": [], "sortBy": ["MostPopular", "PriceAsc", "PriceDesc", "AZ", "ZA"], "totalHits": 300, "categories": [{"categoryId": "607f4d99d61a5dcd8940cf6d", "displayName": "Ávextir og grænmeti", "selected": false, "url": "/voerur/avextir-og-graenmeti/", "children": []}, {"categoryId": "607f4d7f1072c979b14fe73b", "displayName": "Mjólkurvörur", "selected": false, "url": "/voerur/mjolkurvoerur/", "children": []}, {"categoryId": "607f4d8f1072c979b14fe73c", "displayName": "Kjöt og fiskur", "selected": false, "url": "/voerur/kjoet-og-fiskur/", "children": []}, {"categoryId": "607f4d89d61a5dcd8940cf6b", "displayName": "Brauð og kökur", "selected": false, "url": "/voerur/braud-og-koekur/", "children": []}, {"categoryId": "607f4d7a1072c979b14fe739", "displayName": "Kælivörur", "selected": false, "url": "/voerur/kaelivoerur/", "children": []}, {"categoryId": "61aa0e7858952c9651e5029b", "displayName": "Álegg", "selected": false, "url": "/voerur/alegg/", "children": []}, {"categoryId": "607f4d83d61a5dcd8940cf6a", "displayName": "Frystivörur", "selected": false, "url": "/voerur/frystivoerur/", "children": []}, {"categoryId": "61aa102bc665e1cda63fe8e1", "displayName": "Heilsa og útlit", "selected": false, "url": "/voerur/heilsa-og-utlit/", "children": []}, {"categoryId": "61aa105a58952c9651e502bf", "displayName": "Drykkjarvörur", "selected": false, "url": "/voerur/drykkjarvoerur/", "children": []}, {"categoryId": "60d08c72a12a7d4add7d2a43", "displayName": "Þurr- og niðursuðuvörur", "selected": false, "url": "/voerur/thurr-og-nidursuduvoerur/", "children": []}, {"categoryId": "61aa1075bffe2443147f5c29", "displayName": "Sælgæti og snakk", "selected": false, "url": "/voerur/saelgaeti-og-snakk/", "children": []}, {"categoryId": "607f4dac1072c979b14fe740", "displayName": "Barnavörur", "selected": false, "url": "/voerur/barnavoerur/", "children": []}, {"categoryId": "61aa183fbffe2443147f6096", "displayName": "Gæludýravörur", "selected": false, "url": "/voerur/gaeludyravoerur/", "children": []}, {"categoryId": "618142309fc0a1ff0663b38b", "displayName": "Nikótín og eldfæri", "selected": false, "url": "/voerur/nikotin-og-eldfaeri/", "children": []}, {"categoryId": "61aa173cdfbb03c07550ae16", "displayName": "Heimilisvörur", "selected": false, "url": "/voerur/heimilisvoerur/", "children": []}], "bonus": null}
+{
+    "results": [
+        {
+            "sku": "K12004",
+            "displayName": "Bananar",
+            "brand": null,
+            "weight": "180 gr.",
+            "country": "",
+            "productTeaser": "1 stk.",
+            "salesPrice": 54.0,
+            "pricePerUnit": 299.0,
+            "unitOfMeasure": "kg.",
+            "icons": [],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/K12004/k12004.png",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Ávextir og grænmeti",
+                    "url": "/voerur/avextir-og-graenmeti/",
+                    "categoryId": "607f4d99d61a5dcd8940cf6d",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/paschhdo/ág-1000-500-px-1.png",
+                    "level": 1
+                },
+                {
+                    "name": "Ávextir",
+                    "url": "/voerur/avextir-og-graenmeti/avextir/",
+                    "categoryId": "618141fb20f941db99666fd8",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/wi3m3frc/ávextir-1000-500-px-2.png",
+                    "level": 2
+                },
+                {
+                    "name": "Bananar",
+                    "url": "/voerur/avextir-og-graenmeti/avextir/bananar/",
+                    "categoryId": "6182b694d437c426fff3336a",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/avextir-og-graenmeti/avextir/bananar/bananar-p-k12004",
+            "availableInStock": 0,
+            "alwaysInStock": true
+        },
+        {
+            "sku": "30172461",
+            "displayName": "Ágúrka",
+            "brand": "SFG",
+            "weight": "350 gr.",
+            "country": "",
+            "productTeaser": "1 stk.",
+            "salesPrice": 229.0,
+            "pricePerUnit": 654.0,
+            "unitOfMeasure": "kg.",
+            "icons": [
+                "Icelandic"
+            ],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/30172461/30172461.png",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Ávextir og grænmeti",
+                    "url": "/voerur/avextir-og-graenmeti/",
+                    "categoryId": "607f4d99d61a5dcd8940cf6d",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/paschhdo/ág-1000-500-px-1.png",
+                    "level": 1
+                },
+                {
+                    "name": "Grænmeti",
+                    "url": "/voerur/avextir-og-graenmeti/graenmeti/",
+                    "categoryId": "618142009a42b4db60026f26",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/p1kh1vso/graenmeti-1000-500-px-2.png",
+                    "level": 2
+                },
+                {
+                    "name": "Agúrkur",
+                    "url": "/voerur/avextir-og-graenmeti/graenmeti/agurkur/",
+                    "categoryId": "6182b6dad437c426fff33376",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/avextir-og-graenmeti/graenmeti/agurkur/agurka-p-30172461",
+            "availableInStock": 568,
+            "alwaysInStock": false
+        },
+        {
+            "sku": "30147399",
+            "displayName": "Nýmjólk D-Vítamínbætt",
+            "brand": "MS",
+            "weight": "1 ltr.",
+            "country": "",
+            "productTeaser": "",
+            "salesPrice": 239.0,
+            "pricePerUnit": 239.0,
+            "unitOfMeasure": "ltr.",
+            "icons": [
+                "Icelandic"
+            ],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/30147399/30147399_1.jpg",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Mjólkurvörur",
+                    "url": "/voerur/mjolkurvoerur/",
+                    "categoryId": "607f4d7f1072c979b14fe73b",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png",
+                    "level": 1
+                },
+                {
+                    "name": "Mjólk og jurtamjólk",
+                    "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/",
+                    "categoryId": "61a9d7633456bbfb73c087de",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/aiub24fi/mjólk-1000-500-px.png",
+                    "level": 2
+                },
+                {
+                    "name": "Hefðbundin mjólk",
+                    "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/",
+                    "categoryId": "6245723f7878f380ce83f941",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/nymjolk-d-vitaminbaett-p-30147399",
+            "availableInStock": 0,
+            "alwaysInStock": true
+        },
+        {
+            "sku": "K012024",
+            "displayName": "Paprika Rauð",
+            "brand": null,
+            "weight": "210 gr.",
+            "country": "",
+            "productTeaser": "1 stk.",
+            "salesPrice": 126.0,
+            "pricePerUnit": 599.0,
+            "unitOfMeasure": "kg.",
+            "icons": [],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/K012024/K012024.jpg",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Ávextir og grænmeti",
+                    "url": "/voerur/avextir-og-graenmeti/",
+                    "categoryId": "607f4d99d61a5dcd8940cf6d",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/paschhdo/ág-1000-500-px-1.png",
+                    "level": 1
+                },
+                {
+                    "name": "Grænmeti",
+                    "url": "/voerur/avextir-og-graenmeti/graenmeti/",
+                    "categoryId": "618142009a42b4db60026f26",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/p1kh1vso/graenmeti-1000-500-px-2.png",
+                    "level": 2
+                },
+                {
+                    "name": "Paprikur",
+                    "url": "/voerur/avextir-og-graenmeti/graenmeti/paprikur/",
+                    "categoryId": "6182b6dde4896376829abe01",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/avextir-og-graenmeti/graenmeti/paprikur/paprika-raud-p-k012024",
+            "availableInStock": 0,
+            "alwaysInStock": true
+        },
+        {
+            "sku": "10001502",
+            "displayName": "Rjómi",
+            "brand": "MS",
+            "weight": "500 ml.",
+            "country": "",
+            "productTeaser": "",
+            "salesPrice": 689.0,
+            "pricePerUnit": 1378.0,
+            "unitOfMeasure": "ltr.",
+            "icons": [
+                "Icelandic"
+            ],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/10001502/10001502_1.jpg",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Mjólkurvörur",
+                    "url": "/voerur/mjolkurvoerur/",
+                    "categoryId": "607f4d7f1072c979b14fe73b",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png",
+                    "level": 1
+                },
+                {
+                    "name": "Rjómi",
+                    "url": "/voerur/mjolkurvoerur/rjomi/",
+                    "categoryId": "61a9d7a3dd12b21ee14e4b42",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/pstkno1j/rjómi-1000-500-px.png",
+                    "level": 2
+                },
+                {
+                    "name": "Hefðbundinn rjómi",
+                    "url": "/voerur/mjolkurvoerur/rjomi/hefdbundinn-rjomi/",
+                    "categoryId": "62457be7061b04309fa38e05",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/mjolkurvoerur/rjomi/hefdbundinn-rjomi/rjomi-p-10001502",
+            "availableInStock": 0,
+            "alwaysInStock": true
+        },
+        {
+            "sku": "30136799",
+            "displayName": "Smjörvi",
+            "brand": "MS",
+            "weight": "400 gr.",
+            "country": "",
+            "productTeaser": "",
+            "salesPrice": 699.0,
+            "pricePerUnit": 1748.0,
+            "unitOfMeasure": "kg.",
+            "icons": [
+                "Icelandic"
+            ],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/30136799/30136799_1.jpg",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Mjólkurvörur",
+                    "url": "/voerur/mjolkurvoerur/",
+                    "categoryId": "607f4d7f1072c979b14fe73b",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png",
+                    "level": 1
+                },
+                {
+                    "name": "Ostar og smjör",
+                    "url": "/voerur/mjolkurvoerur/ostar-og-smjoer/",
+                    "categoryId": "6183d238e4896376829af7bb",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/3prppjch/ostar-1000-500-px.png",
+                    "level": 2
+                },
+                {
+                    "name": "Smjör",
+                    "url": "/voerur/mjolkurvoerur/ostar-og-smjoer/smjoer/",
+                    "categoryId": "61a9d777dd12b21ee14e4b38",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/mjolkurvoerur/ostar-og-smjoer/smjoer/smjorvi-p-30136799",
+            "availableInStock": 175,
+            "alwaysInStock": false
+        },
+        {
+            "sku": "30117169",
+            "displayName": "Léttmjólk D-Vítamín",
+            "brand": "MS",
+            "weight": "1 ltr.",
+            "country": "",
+            "productTeaser": "",
+            "salesPrice": 239.0,
+            "pricePerUnit": 239.0,
+            "unitOfMeasure": "ltr.",
+            "icons": [
+                "Icelandic"
+            ],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/30117169/30117169.jpg",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Mjólkurvörur",
+                    "url": "/voerur/mjolkurvoerur/",
+                    "categoryId": "607f4d7f1072c979b14fe73b",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png",
+                    "level": 1
+                },
+                {
+                    "name": "Mjólk og jurtamjólk",
+                    "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/",
+                    "categoryId": "61a9d7633456bbfb73c087de",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/aiub24fi/mjólk-1000-500-px.png",
+                    "level": 2
+                },
+                {
+                    "name": "Hefðbundin mjólk",
+                    "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/",
+                    "categoryId": "6245723f7878f380ce83f941",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/lettmjolk-d-vitamin-p-30117169",
+            "availableInStock": 0,
+            "alwaysInStock": true
+        },
+        {
+            "sku": "10001491",
+            "displayName": "Nýmjólk",
+            "brand": "MS",
+            "weight": "1 ltr.",
+            "country": "",
+            "productTeaser": "",
+            "salesPrice": 199.0,
+            "pricePerUnit": 199.0,
+            "unitOfMeasure": "ltr.",
+            "icons": [
+                "Icelandic"
+            ],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/10001491/10001491.png",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Mjólkurvörur",
+                    "url": "/voerur/mjolkurvoerur/",
+                    "categoryId": "607f4d7f1072c979b14fe73b",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/vmbjejdd/mjólkurvoerur-2-1000-500-px.png",
+                    "level": 1
+                },
+                {
+                    "name": "Mjólk og jurtamjólk",
+                    "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/",
+                    "categoryId": "61a9d7633456bbfb73c087de",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/aiub24fi/mjólk-1000-500-px.png",
+                    "level": 2
+                },
+                {
+                    "name": "Hefðbundin mjólk",
+                    "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/",
+                    "categoryId": "6245723f7878f380ce83f941",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/mjolkurvoerur/mjolk-og-jurtamjolk/hefdbundin-mjolk/nymjolk-p-10001491",
+            "availableInStock": 0,
+            "alwaysInStock": true
+        },
+        {
+            "sku": "K082050",
+            "displayName": "Heimilisbrauð Heilt",
+            "brand": "Myllu",
+            "weight": "770 gr.",
+            "country": "",
+            "productTeaser": "",
+            "salesPrice": 569.0,
+            "pricePerUnit": 739.0,
+            "unitOfMeasure": "kg.",
+            "icons": [
+                "Icelandic"
+            ],
+            "hazardLabels": [],
+            "imageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-pim/K082050/K082050.jpg",
+            "offer": null,
+            "bonus": null,
+            "breadcrumbs": [
+                {
+                    "name": "Vörur",
+                    "url": "/voerur/",
+                    "categoryId": null,
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/0btnugbh/fruits-and-vegetables-768x512.jpg",
+                    "level": 0
+                },
+                {
+                    "name": "Brauð og kökur",
+                    "url": "/voerur/braud-og-koekur/",
+                    "categoryId": "607f4d89d61a5dcd8940cf6b",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/h05cymzp/brauð-og-koekur-1000-500-px.png",
+                    "level": 1
+                },
+                {
+                    "name": "Brauð",
+                    "url": "/voerur/braud-og-koekur/braud/",
+                    "categoryId": "61aa025e58952c9651e5014e",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/qgbmrdul/brauð-1000-500-px.png",
+                    "level": 2
+                },
+                {
+                    "name": "Heil brauð",
+                    "url": "/voerur/braud-og-koekur/braud/heil-braud/",
+                    "categoryId": "61aa028758952c9651e50150",
+                    "categoryImageUrl": "https://cdne-image-prod-samkaup.azureedge.net/images-cms/media/bgbf4a3r/empty-top-100.png",
+                    "level": 3
+                }
+            ],
+            "url": "/voerur/braud-og-koekur/braud/heil-braud/heimilisbraud-heilt-p-k082050",
+            "availableInStock": 0,
+            "alwaysInStock": true
+        }
+    ],
+    "facets": [],
+    "sortBy": [
+        "MostPopular",
+        "PriceAsc",
+        "PriceDesc",
+        "AZ",
+        "ZA"
+    ],
+    "totalHits": 300,
+    "categories": [
+        {
+            "categoryId": "607f4d99d61a5dcd8940cf6d",
+            "displayName": "Ávextir og grænmeti",
+            "selected": false,
+            "url": "/voerur/avextir-og-graenmeti/",
+            "children": []
+        },
+        {
+            "categoryId": "607f4d7f1072c979b14fe73b",
+            "displayName": "Mjólkurvörur",
+            "selected": false,
+            "url": "/voerur/mjolkurvoerur/",
+            "children": []
+        },
+        {
+            "categoryId": "607f4d8f1072c979b14fe73c",
+            "displayName": "Kjöt og fiskur",
+            "selected": false,
+            "url": "/voerur/kjoet-og-fiskur/",
+            "children": []
+        },
+        {
+            "categoryId": "607f4d89d61a5dcd8940cf6b",
+            "displayName": "Brauð og kökur",
+            "selected": false,
+            "url": "/voerur/braud-og-koekur/",
+            "children": []
+        },
+        {
+            "categoryId": "607f4d7a1072c979b14fe739",
+            "displayName": "Kælivörur",
+            "selected": false,
+            "url": "/voerur/kaelivoerur/",
+            "children": []
+        },
+        {
+            "categoryId": "61aa0e7858952c9651e5029b",
+            "displayName": "Álegg",
+            "selected": false,
+            "url": "/voerur/alegg/",
+            "children": []
+        },
+        {
+            "categoryId": "607f4d83d61a5dcd8940cf6a",
+            "displayName": "Frystivörur",
+            "selected": false,
+            "url": "/voerur/frystivoerur/",
+            "children": []
+        },
+        {
+            "categoryId": "61aa102bc665e1cda63fe8e1",
+            "displayName": "Heilsa og útlit",
+            "selected": false,
+            "url": "/voerur/heilsa-og-utlit/",
+            "children": []
+        },
+        {
+            "categoryId": "61aa105a58952c9651e502bf",
+            "displayName": "Drykkjarvörur",
+            "selected": false,
+            "url": "/voerur/drykkjarvoerur/",
+            "children": []
+        },
+        {
+            "categoryId": "60d08c72a12a7d4add7d2a43",
+            "displayName": "Þurr- og niðursuðuvörur",
+            "selected": false,
+            "url": "/voerur/thurr-og-nidursuduvoerur/",
+            "children": []
+        },
+        {
+            "categoryId": "61aa1075bffe2443147f5c29",
+            "displayName": "Sælgæti og snakk",
+            "selected": false,
+            "url": "/voerur/saelgaeti-og-snakk/",
+            "children": []
+        },
+        {
+            "categoryId": "607f4dac1072c979b14fe740",
+            "displayName": "Barnavörur",
+            "selected": false,
+            "url": "/voerur/barnavoerur/",
+            "children": []
+        },
+        {
+            "categoryId": "61aa183fbffe2443147f6096",
+            "displayName": "Gæludýravörur",
+            "selected": false,
+            "url": "/voerur/gaeludyravoerur/",
+            "children": []
+        },
+        {
+            "categoryId": "618142309fc0a1ff0663b38b",
+            "displayName": "Nikótín og eldfæri",
+            "selected": false,
+            "url": "/voerur/nikotin-og-eldfaeri/",
+            "children": []
+        },
+        {
+            "categoryId": "61aa173cdfbb03c07550ae16",
+            "displayName": "Heimilisvörur",
+            "selected": false,
+            "url": "/voerur/heimilisvoerur/",
+            "children": []
+        }
+    ],
+    "bonus": null
+}

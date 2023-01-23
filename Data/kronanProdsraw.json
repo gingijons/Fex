@@ -1,0 +1,1340 @@
+{
+ "data": {
+  "products": {
+   "totalCount": 4,
+   "pageInfo": {
+    "endCursor": "YXJyYXljb25uZWN0aW9uOjM=",
+    "hasNextPage": false,
+    "__typename": "PageInfo"
+   },
+   "edges": [
+    {
+     "node": {
+      "id": "UHJvZHVjdDoxMDAyNDg2Mjk=",
+      "name": "Korter í 4 Nautastrimlar fajitas",
+      "slug": "100248629-korter-i-4-nautastrimlar-fajitas",
+      "attributes": [
+       {
+        "values": [],
+        "attribute": {
+         "name": "Samanburðareining",
+         "slug": "samanburareining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Samanburðargrunneining",
+         "slug": "samanburargrunneining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODg=",
+          "name": "STK",
+          "slug": "stk",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Sölueining",
+         "slug": "solueining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Meðalþyngd einingar",
+         "slug": "mealyngd-einingar",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Strikamerki",
+         "slug": "strikamerki",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Lífrænt vottað",
+         "slug": "lifrnt-votta",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Vegan",
+         "slug": "vegan",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTQ=",
+          "name": "Betri",
+          "slug": "betri",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Virðisflokkun",
+         "slug": "virisflokkun",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Upprunaland",
+         "slug": "upprunaland",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODk=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Inniheldur mjólk",
+         "slug": "inniheldur-mjolk",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODY=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Glúteinlaust",
+         "slug": "gluteinlaust",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTE=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Lactosafrítt",
+         "slug": "lactosafritt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTA=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Inniheldur hnetur",
+         "slug": "inniheldur-hnetur",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Sykurlaust",
+         "slug": "sykurlaust",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTY=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Íslensk framleiðsla",
+         "slug": "islensk-framleisla",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Skráargatið",
+         "slug": "skraargati",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Fairtrade",
+         "slug": "fairtrade",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Bestur núna",
+         "slug": "bestur-nuna",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Ódýr",
+         "slug": "odyr",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Nýtt",
+         "slug": "nytt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTE0NTI=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Ketovænt",
+         "slug": "ketovnt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Svanurinn",
+         "slug": "svanurinn",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Evrópublómið",
+         "slug": "evropublomi",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Tannvænt",
+         "slug": "tannvnt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Frystivara",
+         "slug": "frystivara",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       }
+      ],
+      "thumbnail": {
+       "url": "https://media.kronan.is/products/74462-thumbnail-255x255-70.jpg",
+       "alt": "",
+       "__typename": "Image"
+      },
+      "variants": [
+       {
+        "__typename": "ProductVariant",
+        "id": "UHJvZHVjdFZhcmlhbnQ6MTczNDM=",
+        "sku": "100248629",
+        "name": "Korter í 4 Nautastrimlar fajitas",
+        "measureCode": "GR",
+        "temporaryShortage": false,
+        "referenceWeightPerUnit": null,
+        "pricePerKilo": null,
+        "pricing": {
+         "onSale": false,
+         "discount": null,
+         "price": {
+          "gross": {
+           "amount": 2098.0,
+           "__typename": "Money"
+          },
+          "__typename": "TaxedMoney"
+         },
+         "__typename": "VariantPricingInfo"
+        },
+        "product": {
+         "baseComparisonUnit": "KG",
+         "qtyPerBaseCompUnit": 380.0,
+         "__typename": "Product"
+        }
+       }
+      ],
+      "__typename": "Product"
+     },
+     "__typename": "ProductCountableEdge"
+    },
+    {
+     "node": {
+      "id": "UHJvZHVjdDoxMDAyNDg2NDU=",
+      "name": "Korter í 4 rósm/hvítl. kjúkl.bringur",
+      "slug": "100248645-korter-i-4-rosmhvitl-kjuklbringur",
+      "attributes": [
+       {
+        "values": [],
+        "attribute": {
+         "name": "Samanburðareining",
+         "slug": "samanburareining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Samanburðargrunneining",
+         "slug": "samanburargrunneining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODg=",
+          "name": "STK",
+          "slug": "stk",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Sölueining",
+         "slug": "solueining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Meðalþyngd einingar",
+         "slug": "mealyngd-einingar",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Strikamerki",
+         "slug": "strikamerki",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Lífrænt vottað",
+         "slug": "lifrnt-votta",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Vegan",
+         "slug": "vegan",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTQ=",
+          "name": "Betri",
+          "slug": "betri",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Virðisflokkun",
+         "slug": "virisflokkun",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Upprunaland",
+         "slug": "upprunaland",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODk=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Inniheldur mjólk",
+         "slug": "inniheldur-mjolk",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODY=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Glúteinlaust",
+         "slug": "gluteinlaust",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTE=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Lactosafrítt",
+         "slug": "lactosafritt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTA=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Inniheldur hnetur",
+         "slug": "inniheldur-hnetur",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTc=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Sykurlaust",
+         "slug": "sykurlaust",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTY=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Íslensk framleiðsla",
+         "slug": "islensk-framleisla",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Skráargatið",
+         "slug": "skraargati",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Fairtrade",
+         "slug": "fairtrade",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Bestur núna",
+         "slug": "bestur-nuna",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Ódýr",
+         "slug": "odyr",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Nýtt",
+         "slug": "nytt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTE0NTI=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Ketovænt",
+         "slug": "ketovnt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Svanurinn",
+         "slug": "svanurinn",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Evrópublómið",
+         "slug": "evropublomi",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Tannvænt",
+         "slug": "tannvnt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Frystivara",
+         "slug": "frystivara",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       }
+      ],
+      "thumbnail": {
+       "url": "https://media.kronan.is/products/74441-thumbnail-255x255-70.jpg",
+       "alt": "",
+       "__typename": "Image"
+      },
+      "variants": [
+       {
+        "__typename": "ProductVariant",
+        "id": "UHJvZHVjdFZhcmlhbnQ6MTczNTQ=",
+        "sku": "100248645",
+        "name": "Korter í 4 rósm/hvítl. kjúkl.bringur",
+        "measureCode": "GR",
+        "temporaryShortage": false,
+        "referenceWeightPerUnit": null,
+        "pricePerKilo": null,
+        "pricing": {
+         "onSale": false,
+         "discount": null,
+         "price": {
+          "gross": {
+           "amount": 1699.0,
+           "__typename": "Money"
+          },
+          "__typename": "TaxedMoney"
+         },
+         "__typename": "VariantPricingInfo"
+        },
+        "product": {
+         "baseComparisonUnit": "KG",
+         "qtyPerBaseCompUnit": 380.0,
+         "__typename": "Product"
+        }
+       }
+      ],
+      "__typename": "Product"
+     },
+     "__typename": "ProductCountableEdge"
+    },
+    {
+     "node": {
+      "id": "UHJvZHVjdDoxMDAyNDg2NDc=",
+      "name": "Korter í 4 lax með hnetusalsa",
+      "slug": "100248647-korter-i-4-lax-med-hnetusalsa",
+      "attributes": [
+       {
+        "values": [],
+        "attribute": {
+         "name": "Samanburðareining",
+         "slug": "samanburareining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Samanburðargrunneining",
+         "slug": "samanburargrunneining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODg=",
+          "name": "STK",
+          "slug": "stk",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Sölueining",
+         "slug": "solueining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Meðalþyngd einingar",
+         "slug": "mealyngd-einingar",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Strikamerki",
+         "slug": "strikamerki",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Lífrænt vottað",
+         "slug": "lifrnt-votta",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Vegan",
+         "slug": "vegan",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTQ=",
+          "name": "Betri",
+          "slug": "betri",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Virðisflokkun",
+         "slug": "virisflokkun",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Upprunaland",
+         "slug": "upprunaland",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODk=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Inniheldur mjólk",
+         "slug": "inniheldur-mjolk",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODY=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Glúteinlaust",
+         "slug": "gluteinlaust",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTE=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Lactosafrítt",
+         "slug": "lactosafritt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTA=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Inniheldur hnetur",
+         "slug": "inniheldur-hnetur",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTc=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Sykurlaust",
+         "slug": "sykurlaust",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTY=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Íslensk framleiðsla",
+         "slug": "islensk-framleisla",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Skráargatið",
+         "slug": "skraargati",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Fairtrade",
+         "slug": "fairtrade",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Bestur núna",
+         "slug": "bestur-nuna",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Ódýr",
+         "slug": "odyr",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Nýtt",
+         "slug": "nytt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTE0NTI=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Ketovænt",
+         "slug": "ketovnt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Svanurinn",
+         "slug": "svanurinn",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Evrópublómið",
+         "slug": "evropublomi",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Tannvænt",
+         "slug": "tannvnt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Frystivara",
+         "slug": "frystivara",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       }
+      ],
+      "thumbnail": {
+       "url": "https://media.kronan.is/products/74443-thumbnail-255x255-70.jpg",
+       "alt": "",
+       "__typename": "Image"
+      },
+      "variants": [
+       {
+        "__typename": "ProductVariant",
+        "id": "UHJvZHVjdFZhcmlhbnQ6MTczNTY=",
+        "sku": "100248647",
+        "name": "Korter í 4 lax með hnetusalsa",
+        "measureCode": "GR",
+        "temporaryShortage": false,
+        "referenceWeightPerUnit": null,
+        "pricePerKilo": null,
+        "pricing": {
+         "onSale": false,
+         "discount": null,
+         "price": {
+          "gross": {
+           "amount": 2098.0,
+           "__typename": "Money"
+          },
+          "__typename": "TaxedMoney"
+         },
+         "__typename": "VariantPricingInfo"
+        },
+        "product": {
+         "baseComparisonUnit": "KG",
+         "qtyPerBaseCompUnit": 400.0,
+         "__typename": "Product"
+        }
+       }
+      ],
+      "__typename": "Product"
+     },
+     "__typename": "ProductCountableEdge"
+    },
+    {
+     "node": {
+      "id": "UHJvZHVjdDoxMDAyNDg2MzY=",
+      "name": "Korter í 4 risarækju fajitas",
+      "slug": "100248636-korter-i-4-risaraekju-fajitas",
+      "attributes": [
+       {
+        "values": [],
+        "attribute": {
+         "name": "Samanburðareining",
+         "slug": "samanburareining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Samanburðargrunneining",
+         "slug": "samanburargrunneining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODg=",
+          "name": "STK",
+          "slug": "stk",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Sölueining",
+         "slug": "solueining",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Meðalþyngd einingar",
+         "slug": "mealyngd-einingar",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Strikamerki",
+         "slug": "strikamerki",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Lífrænt vottað",
+         "slug": "lifrnt-votta",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Vegan",
+         "slug": "vegan",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTQ=",
+          "name": "Betri",
+          "slug": "betri",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Virðisflokkun",
+         "slug": "virisflokkun",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Upprunaland",
+         "slug": "upprunaland",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODk=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Inniheldur mjólk",
+         "slug": "inniheldur-mjolk",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzODY=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Glúteinlaust",
+         "slug": "gluteinlaust",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTE=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Lactosafrítt",
+         "slug": "lactosafritt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTA=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Inniheldur hnetur",
+         "slug": "inniheldur-hnetur",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTc=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Sykurlaust",
+         "slug": "sykurlaust",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTEzOTY=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Íslensk framleiðsla",
+         "slug": "islensk-framleisla",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Skráargatið",
+         "slug": "skraargati",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Fairtrade",
+         "slug": "fairtrade",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Bestur núna",
+         "slug": "bestur-nuna",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Ódýr",
+         "slug": "odyr",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Nýtt",
+         "slug": "nytt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [
+         {
+          "id": "QXR0cmlidXRlVmFsdWU6MTE0NTI=",
+          "name": "Já",
+          "slug": "ja",
+          "__typename": "AttributeValue"
+         }
+        ],
+        "attribute": {
+         "name": "Ketovænt",
+         "slug": "ketovnt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Svanurinn",
+         "slug": "svanurinn",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Evrópublómið",
+         "slug": "evropublomi",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Tannvænt",
+         "slug": "tannvnt",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       },
+       {
+        "values": [],
+        "attribute": {
+         "name": "Frystivara",
+         "slug": "frystivara",
+         "__typename": "Attribute"
+        },
+        "__typename": "SelectedAttribute"
+       }
+      ],
+      "thumbnail": {
+       "url": "https://media.kronan.is/products/74458-thumbnail-255x255-70.jpg",
+       "alt": "",
+       "__typename": "Image"
+      },
+      "variants": [
+       {
+        "__typename": "ProductVariant",
+        "id": "UHJvZHVjdFZhcmlhbnQ6MTczNDg=",
+        "sku": "100248636",
+        "name": "Korter í 4 risarækju fajitas",
+        "measureCode": "GR",
+        "temporaryShortage": false,
+        "referenceWeightPerUnit": null,
+        "pricePerKilo": null,
+        "pricing": {
+         "onSale": false,
+         "discount": null,
+         "price": {
+          "gross": {
+           "amount": 2098.0,
+           "__typename": "Money"
+          },
+          "__typename": "TaxedMoney"
+         },
+         "__typename": "VariantPricingInfo"
+        },
+        "product": {
+         "baseComparisonUnit": "KG",
+         "qtyPerBaseCompUnit": 380.0,
+         "__typename": "Product"
+        }
+       }
+      ],
+      "__typename": "Product"
+     },
+     "__typename": "ProductCountableEdge"
+    }
+   ],
+   "__typename": "ProductCountableConnection"
+  }
+ }
+}
